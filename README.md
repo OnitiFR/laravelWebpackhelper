@@ -16,5 +16,5 @@ The next required step is to add the service provider to config/app.php :
  
 The last required step is to publish views and assets in your application with :
 ```
-    php artisan vendor:publish --provider=Oniti\WebPackHelper\WebpackHelperProvider
+    php artisan vendor:publish
 ```
