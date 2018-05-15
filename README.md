@@ -4,12 +4,12 @@
 ### Installation ###
  
 ```
-    composer require oniti/docga-api
+    composer require oniti/webpack-helper
 ```
  
 The next required step is to add the service provider to config/app.php :
 ```
-    Oniti\DocgaApi\DocgaApiServiceProvider::class,
+    Oniti\WebPackHelper\WebpackHelperProvider::class,
 ```
 
 ### Publish ###
