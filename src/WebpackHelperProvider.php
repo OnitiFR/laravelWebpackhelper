@@ -1,6 +1,6 @@
 <?php 
 
-namespace Oniti\DocgaApi;
+namespace Oniti\WebPackHelper;
 
 use Illuminate\Support\ServiceProvider;
 use App;
