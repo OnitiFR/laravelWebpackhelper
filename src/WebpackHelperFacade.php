@@ -1,5 +1,5 @@
 <?php
-namespace Oniti\WebPackHelper;
+namespace Oniti\WebpackHelper;
 
 class WebpackHelperFacade extends \Illuminate\Support\Facades\Facade
 {

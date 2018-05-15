@@ -1,5 +1,5 @@
 <?php
-namespace Oniti\WebPackHelper;
+namespace Oniti\WebpackHelper;
 
 use Config;
 /**

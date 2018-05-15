@@ -1,6 +1,6 @@
 <?php 
 
-namespace Oniti\WebPackHelper;
+namespace Oniti\WebpackHelper;
 
 use Illuminate\Support\ServiceProvider;
 use App;
